@@ -15,6 +15,7 @@
     <SUITE FILE_PATH="coverage/PythonLearnDemo$ReadCvs.coverage" NAME="ReadCvs Coverage Results" MODIFIED="1554344857710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程/other" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_05.coverage" NAME="Python3_05列表 Coverage Results" MODIFIED="1554260246508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$People.coverage" NAME="People Coverage Results" MODIFIED="1554281375877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程/oo" />
+    <SUITE FILE_PATH="coverage/PythonLearnDemo$demo2_requests_re.coverage" NAME="demo2_requests_re Coverage Results" MODIFIED="1565879299791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_12.coverage" NAME="Python3_12迭代器与生成器 Coverage Results" MODIFIED="1554271905335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_01.coverage" NAME="Python3_01基本数据类型 Coverage Results" MODIFIED="1554213527010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_03_Number_.coverage" NAME="Python3_03数字(Number) Coverage Results" MODIFIED="1554257846087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
@@ -24,6 +25,7 @@
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_09.coverage" NAME="Python3_09编程第一步 Coverage Results" MODIFIED="1554270596305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_15.coverage" NAME="Python3_15错误和异常 Coverage Results" MODIFIED="1554279632661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_18MySQL.coverage" NAME="Python3_18MySQL Coverage Results" MODIFIED="1554284433777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
+    <SUITE FILE_PATH="coverage/PythonLearnDemo$demo1_request.coverage" NAME="demo1_request Coverage Results" MODIFIED="1565877096100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$demo02_search.coverage" NAME="demo02_search Coverage Results" MODIFIED="1554343452464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程/正则表达式" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_11.coverage" NAME="Python3_11循环语句 Coverage Results" MODIFIED="1554271407851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_10.coverage" NAME="Python3_10条件控制 Coverage Results" MODIFIED="1554270936536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
@@ -38,67 +40,51 @@
     <session id="876668674">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="42" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="50" />
+          <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="2197" />
+          <entry key="Python" value="2767" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/菜鸟教程/other/ReadCvs.py">
+        <entry file="file://$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo1_request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="45" />
+            <state>
+              <caret selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/菜鸟教程/other/WriteCsv.py">
+        <entry file="file://$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo2_requests_re.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-767858280/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/csv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="131" column="26" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="26" />
+            <state relative-caret-position="266">
+              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding>
-                <element signature="e#52#61#0" expanded="true" />
+                <element signature="e#20#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,6 +133,8 @@
         <option value="$PROJECT_DIR$/菜鸟教程/正则表达式/demo02_search.py" />
         <option value="$PROJECT_DIR$/菜鸟教程/other/ReadCvs.py" />
         <option value="$PROJECT_DIR$/菜鸟教程/other/WriteCsv.py" />
+        <option value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo1_request.py" />
+        <option value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo2_requests_re.py" />
       </list>
     </option>
   </component>
@@ -170,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,26 +169,30 @@
             <path>
               <item name="PythonLearnDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="菜鸟教程" type="462c0819:PsiDirectoryNode" />
+              <item name="python爬虫开发从入门到实战" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="python爬虫开发从入门到实战" type="462c0819:PsiDirectoryNode" />
+              <item name="第四章简单的网页开发" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonLearnDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnDemo" type="462c0819:PsiDirectoryNode" />
               <item name="菜鸟教程" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -221,29 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.WriteCsv">
-    <configuration name="Python3_18MySQL" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLearnDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/菜鸟教程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/菜鸟教程/Python3_18MySQL.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.demo2_requests_re">
     <configuration name="ReadCvs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,28 +259,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo01_findall" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLearnDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/菜鸟教程/正则表达式" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/菜鸟教程/正则表达式/demo01_findall.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="demo02_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,20 +281,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="demo1_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearnDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo1_request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo2_requests_re" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearnDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo2_requests_re.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Python3_18MySQL" />
-      <item itemvalue="Python.demo01_findall" />
       <item itemvalue="Python.demo02_search" />
       <item itemvalue="Python.ReadCvs" />
       <item itemvalue="Python.WriteCsv" />
+      <item itemvalue="Python.demo1_request" />
+      <item itemvalue="Python.demo2_requests_re" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo2_requests_re" />
+        <item itemvalue="Python.demo1_request" />
         <item itemvalue="Python.WriteCsv" />
         <item itemvalue="Python.ReadCvs" />
         <item itemvalue="Python.demo02_search" />
-        <item itemvalue="Python.demo01_findall" />
-        <item itemvalue="Python.Python3_18MySQL" />
       </list>
     </recent_temporary>
   </component>
@@ -364,14 +357,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2708165" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27970898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -552,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/菜鸟教程/Python3_01基本数据类型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -596,7 +581,7 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="2318">
           <caret line="131" column="26" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="26" />
           <folding>
             <element signature="e#52#61#0" expanded="true" />
@@ -604,17 +589,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-767858280/builtins.py">
+    <entry file="file://$PROJECT_DIR$/菜鸟教程/other/WriteCsv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/菜鸟教程/other/WriteCsv.py">
+    <entry file="file://$PROJECT_DIR$/python爬虫开发从入门到实战/note">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/菜鸟教程/Python3_01基本数据类型.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        <state>
+          <caret selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/get/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/re.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-767858280/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="2046" column="8" selection-start-line="2046" selection-start-column="8" selection-end-line="2046" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo1_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo2_requests_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="e#20#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
