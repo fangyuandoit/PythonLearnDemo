@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="82e57ed1-00a4-4a53-8239-87cc29bb493c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo05_beautifulsoup4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo05_beautifulsoup4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,7 @@
     <SUITE FILE_PATH="coverage/PythonLearnDemo$demo04.coverage" NAME="demo04多线程访问百度 Coverage Results" MODIFIED="1566137835784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_05.coverage" NAME="Python3_05列表 Coverage Results" MODIFIED="1554260246508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$People.coverage" NAME="People Coverage Results" MODIFIED="1554281375877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程/oo" />
+    <SUITE FILE_PATH="coverage/PythonLearnDemo$bilibili.coverage" NAME="bilibili小视频 Coverage Results" MODIFIED="1566828225236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_03_Number_.coverage" NAME="Python3_03数字(Number) Coverage Results" MODIFIED="1554257846087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$demo1_request.coverage" NAME="demo1_request Coverage Results" MODIFIED="1565877096100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_11.coverage" NAME="Python3_11循环语句 Coverage Results" MODIFIED="1554271407851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
@@ -37,6 +37,7 @@
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_15.coverage" NAME="Python3_15错误和异常 Coverage Results" MODIFIED="1554279632661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_18MySQL.coverage" NAME="Python3_18MySQL Coverage Results" MODIFIED="1554284433777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$demo02_search.coverage" NAME="demo02_search Coverage Results" MODIFIED="1554343452464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程/正则表达式" />
+    <SUITE FILE_PATH="coverage/PythonLearnDemo$.coverage" NAME="视频下载 Coverage Results" MODIFIED="1566828839831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1553780991730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_17.coverage" NAME="Python3_17标准库概览 Coverage Results" MODIFIED="1554282054037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
   </component>
@@ -44,63 +45,59 @@
     <session id="876668674">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="55" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="70" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="3492" />
+          <entry key="Python" value="4041" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo05_beautifulsoup4.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/bilibili小视频.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="3">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding>
-                <element signature="e#19#34#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/element.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/视频下载.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="1263" column="8" selection-start-line="1263" selection-start-column="8" selection-end-line="1263" selection-end-column="8" />
+            <state relative-caret-position="228">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/图片下载.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -111,6 +108,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>作补给站#炫酷的拖影效果竟然这么简</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,6 +153,9 @@
         <option value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo03多线程.py" />
         <option value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo04多线程访问百度.py" />
         <option value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo05_beautifulsoup4.py" />
+        <option value="$PROJECT_DIR$/test/豆瓣.py" />
+        <option value="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/bilibili小视频.py" />
+        <option value="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/视频下载.py" />
       </list>
     </option>
   </component>
@@ -174,7 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,18 +189,19 @@
             <path>
               <item name="PythonLearnDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="python爬虫开发从入门到实战" type="462c0819:PsiDirectoryNode" />
+              <item name="网上到处找的爬虫教学" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonLearnDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="python爬虫开发从入门到实战" type="462c0819:PsiDirectoryNode" />
-              <item name="第四章简单的网页开发" type="462c0819:PsiDirectoryNode" />
+              <item name="网上到处找的爬虫教学" type="462c0819:PsiDirectoryNode" />
+              <item name="哔哩哔哩" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,11 +211,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\菜鸟教程\正则表达式" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\菜鸟教程" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\网上到处找的爬虫教学" />
+      <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\菜鸟教程\正则表达式" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,8 +231,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo05_beautifulsoup4">
-    <configuration name="demo03多线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.视频下载">
+    <configuration name="豆瓣" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,12 +240,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo03多线程.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/豆瓣.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="视频下载" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearnDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/视频下载.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bilibili小视频" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearnDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/bilibili小视频.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,64 +342,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo1_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLearnDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\python爬虫开发从入门到实战\第四章简单的网页开发\demo01_request.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo2_requests_re" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLearnDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\python爬虫开发从入门到实战\第四章简单的网页开发\demo02_requests_re.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.demo1_request" />
-      <item itemvalue="Python.demo2_requests_re" />
-      <item itemvalue="Python.demo03多线程" />
       <item itemvalue="Python.demo04多线程访问百度" />
       <item itemvalue="Python.demo05_beautifulsoup4" />
+      <item itemvalue="Python.豆瓣" />
+      <item itemvalue="Python.bilibili小视频" />
+      <item itemvalue="Python.视频下载" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.视频下载" />
+        <item itemvalue="Python.bilibili小视频" />
+        <item itemvalue="Python.豆瓣" />
         <item itemvalue="Python.demo05_beautifulsoup4" />
         <item itemvalue="Python.demo04多线程访问百度" />
-        <item itemvalue="Python.demo03多线程" />
-        <item itemvalue="Python.demo2_requests_re" />
-        <item itemvalue="Python.demo1_request" />
       </list>
     </recent_temporary>
   </component>
@@ -368,14 +374,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28940988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30881163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3179396" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -400,14 +405,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/菜鸟教程/tip/Python数据类型转换">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1121">
@@ -628,20 +625,6 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/request/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-767858280/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="2046" column="8" selection-start-line="2046" selection-start-column="8" selection-end-line="2046" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo01_request.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -663,37 +646,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="1263" column="8" selection-start-line="1263" selection-start-column="8" selection-end-line="1263" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo04多线程访问百度.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发/demo05_beautifulsoup4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23959">
+          <caret line="1263" column="8" selection-start-line="1263" selection-start-column="8" selection-end-line="1263" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/豆瓣.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
-            <element signature="e#19#34#0" expanded="true" />
+            <element signature="e#43#58#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/writecsv.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/T1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-767858280/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4212" column="8" selection-start-line="4212" selection-start-column="8" selection-end-line="4212" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/用户信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/爬取弹幕.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="45" />
+          <folding>
+            <element signature="e#1#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/bilibili小视频.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/图片下载.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/视频下载.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
