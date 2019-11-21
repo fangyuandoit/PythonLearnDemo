@@ -11,8 +11,8 @@ def login():
     }
 
     data = {
-        "username": "15828313741",  #需改成自己的登录名字
-        "password": "88700915wqq",  #修改成自己的登录密码
+        "username": "xxx",  #需改成自己的登录名字
+        "password": "xxx",  #修改成自己的登录密码
         "savestate": "1",
         "ec": "0",
         "pagerefer": "https://weibo.cn/pub/",
