@@ -11,6 +11,8 @@ from binascii import b2a_hex
 
 
 
+#https://www.cnblogs.com/woaixuexi9999/p/9404745.html
+
 def getCurrTimestamp():
         t = time.time()
         currTime = int(round(t * 1000))
