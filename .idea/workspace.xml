@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="82e57ed1-00a4-4a53-8239-87cc29bb493c" name="Default Changelist" comment="lagou">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度贴吧.py" beforeDir="false" afterPath="$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度贴吧.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +25,7 @@
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_10.coverage" NAME="Python3_10条件控制 Coverage Results" MODIFIED="1554270936536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_13.coverage" NAME="Python3_13函数 Coverage Results" MODIFIED="1554272629633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$demo05_beautifulsoup4.coverage" NAME="demo05_beautifulsoup4 Coverage Results" MODIFIED="1566223277999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫开发从入门到实战/第四章简单的网页开发" />
+    <SUITE FILE_PATH="coverage/PythonLearnDemo$getHousePriceInfo.coverage" NAME="getHousePriceInfo Coverage Results" MODIFIED="1586959344716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网上到处找的爬虫教学/链家/service" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$WriteCsv.coverage" NAME="WriteCsv Coverage Results" MODIFIED="1554346489818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程/other" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_04.coverage" NAME="Python3_04字符串 Coverage Results" MODIFIED="1554258733923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_07.coverage" NAME="Python3_07字典 Coverage Results" MODIFIED="1554263318691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
@@ -41,7 +44,8 @@
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_15.coverage" NAME="Python3_15错误和异常 Coverage Results" MODIFIED="1554279632661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_18MySQL.coverage" NAME="Python3_18MySQL Coverage Results" MODIFIED="1554284433777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$demo02_search.coverage" NAME="demo02_search Coverage Results" MODIFIED="1566997830734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程/正则表达式" />
-    <SUITE FILE_PATH="coverage/PythonLearnDemo$.coverage" NAME="职位查询 Coverage Results" MODIFIED="1568988308815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩" />
+    <SUITE FILE_PATH="coverage/PythonLearnDemo$t1__1_.coverage" NAME="t1 (1) Coverage Results" MODIFIED="1569422997001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonLearnDemo$.coverage" NAME="百度贴吧 Coverage Results" MODIFIED="1575029226720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网上到处找的爬虫教学/百度" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$t4.coverage" NAME="t4 Coverage Results" MODIFIED="1569332635061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1553780991730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearnDemo$Python3_17.coverage" NAME="Python3_17标准库概览 Coverage Results" MODIFIED="1554282054037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/菜鸟教程" />
@@ -51,39 +55,55 @@
     <session id="876668674">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
-          <entry key="project.open.time.10" value="3" />
+          <entry key="project.closed" value="41" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.196" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="5" />
-          <entry key="project.open.time.8" value="5" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="8" />
+          <entry key="project.open.time.7" value="8" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="8" />
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="116" />
+          <entry key="Python" value="124" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="35" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="64" />
-          <entry key="Python" value="5808" />
+          <entry key="Python" value="5937" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/链家/service/getHousePriceInfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,8 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test1.py" />
-        <option value="$PROJECT_DIR$/菜鸟教程/Python3_01基本数据类型.py" />
         <option value="$PROJECT_DIR$/菜鸟教程/tip/Python数据类型转换" />
         <option value="$PROJECT_DIR$/菜鸟教程/tip/Python3 _02运算符.py" />
         <option value="$PROJECT_DIR$/菜鸟教程/Python3_02运算符.py" />
@@ -141,20 +159,23 @@
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/bilibili小视频.py" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/视频下载.py" />
         <option value="$PROJECT_DIR$/菜鸟教程/正则表达式/note" />
-        <option value="$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度贴吧.py" />
         <option value="$PROJECT_DIR$/菜鸟教程/正则表达式/demo02_search.py" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/必应/必应图片.py" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/百度/a.js" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度翻译手机版.py" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/百度/b.js" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度翻译电脑版.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t1.py" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t3.py" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t4.py" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/职位查询.py" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/拉钩查询java工作岗位.py" />
         <option value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t2.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/test/t1.py" />
+        <option value="$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度贴吧.py" />
+        <option value="$PROJECT_DIR$/网上到处找的爬虫教学/链家/service/getHousePriceInfo.py" />
+        <option value="$PROJECT_DIR$/网上到处找的爬虫教学/链家/dao/HousePriceDao.py" />
       </list>
     </option>
   </component>
@@ -194,19 +215,21 @@
               <item name="PythonLearnDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnDemo" type="462c0819:PsiDirectoryNode" />
               <item name="网上到处找的爬虫教学" type="462c0819:PsiDirectoryNode" />
-              <item name="哔哩哔哩" type="462c0819:PsiDirectoryNode" />
+              <item name="链家" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonLearnDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnDemo" type="462c0819:PsiDirectoryNode" />
               <item name="网上到处找的爬虫教学" type="462c0819:PsiDirectoryNode" />
-              <item name="百度" type="462c0819:PsiDirectoryNode" />
+              <item name="链家" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonLearnDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnDemo" type="462c0819:PsiDirectoryNode" />
               <item name="网上到处找的爬虫教学" type="462c0819:PsiDirectoryNode" />
-              <item name="豆瓣" type="462c0819:PsiDirectoryNode" />
+              <item name="链家" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,15 +245,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\菜鸟教程" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\网上到处找的爬虫教学" />
       <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\网上到处找的爬虫教学\拉钩" />
       <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\网上到处找的爬虫教学\百度" />
       <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\网上到处找的爬虫教学\豆瓣" />
-      <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\网上到处找的爬虫教学" />
       <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\菜鸟教程\正则表达式" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharmAndeDemo\pyProject\PythonLearnDemo\菜鸟教程" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,8 +268,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.拉钩查询java工作岗位">
-    <configuration name="职位查询" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.getHousePriceInfo">
+    <configuration name="百度贴吧" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,34 +277,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网上到处找的爬虫教学/百度" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/职位查询.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="职位查询" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLearnDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/职位查询.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度贴吧.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -422,6 +423,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="getHousePriceInfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearnDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网上到处找的爬虫教学/链家/service" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网上到处找的爬虫教学/链家/service/getHousePriceInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="拉钩查询java工作岗位" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -444,7 +467,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="t1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="t1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -452,56 +475,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="t2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLearnDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="t3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLearnDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/t1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -533,19 +512,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.t1" />
-      <item itemvalue="Python.t2" />
-      <item itemvalue="Python.t3" />
       <item itemvalue="Python.t4" />
       <item itemvalue="Python.拉钩查询java工作岗位" />
+      <item itemvalue="Python.t1 (1)" />
+      <item itemvalue="Python.百度贴吧" />
+      <item itemvalue="Python.getHousePriceInfo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.getHousePriceInfo" />
+        <item itemvalue="Python.百度贴吧" />
+        <item itemvalue="Python.t1 (1)" />
         <item itemvalue="Python.拉钩查询java工作岗位" />
         <item itemvalue="Python.t4" />
-        <item itemvalue="Python.t3" />
-        <item itemvalue="Python.t2" />
-        <item itemvalue="Python.t1" />
       </list>
     </recent_temporary>
   </component>
@@ -573,12 +552,12 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19967663" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26596606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31083483" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4884547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -607,27 +586,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="lagou" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/mysql/connector/cursor_cext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3705">
-          <caret line="210" column="8" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/菜鸟教程/Python3_18MySQL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="214" column="4" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-767858280/_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -714,13 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/豆瓣.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/哔哩哔哩/writecsv.csv" />
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-767858280/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -747,13 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度贴吧.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -813,16 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="82" selection-start-line="4" selection-start-column="82" selection-end-line="4" selection-end-column="82" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度翻译手机版.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-152">
@@ -865,18 +799,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/豆瓣/豆瓣热门电影.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t1.py" />
     <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/必应/必应图片.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -898,44 +821,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t2.py" />
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t3.py" />
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t4.py" />
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/职位查询.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t3.py">
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/豆瓣/豆瓣热门电影.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/豆瓣.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="12" selection-start-column="48" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/拉钩查询java工作岗位.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        <state relative-caret-position="171">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/百度/百度贴吧.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="98" selection-start-line="22" selection-start-column="98" selection-end-line="22" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/链家/dao/HousePriceDao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/链家/service/getHousePriceInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
           <folding>
-            <element signature="e#26#37#0" expanded="true" />
+            <element signature="e#19#34#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/t4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="46" column="15" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网上到处找的爬虫教学/拉钩/职位查询.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="60" column="9" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="60" selection-end-column="9" />
         </state>
       </provider>
     </entry>
