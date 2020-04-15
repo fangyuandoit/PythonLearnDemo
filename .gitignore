@@ -1,8 +1,13 @@
 HELP.md
+<<<<<<< HEAD
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+=======
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+>>>>>>> e59a272a2ad0dd8ef83ada9e6ad3bc0bb6f6cef3
 
 ### STS ###
 .apt_generated
@@ -18,6 +23,22 @@ target/
 *.iws
 *.iml
 *.ipr
+<<<<<<< HEAD
+=======
+/.idea/
+.idea/ workspace.xml
+
+
+/target
+/.project
+/.settings
+/.classpath
+/.idea
+/.DS_Store
+*.iml
+/bin/
+
+>>>>>>> e59a272a2ad0dd8ef83ada9e6ad3bc0bb6f6cef3
 
 ### NetBeans ###
 /nbproject/private/
@@ -25,7 +46,11 @@ target/
 /dist/
 /nbdist/
 /.nb-gradle/
+<<<<<<< HEAD
 build/
 
 ### VS Code ###
 .vscode/
+=======
+/build/
+>>>>>>> e59a272a2ad0dd8ef83ada9e6ad3bc0bb6f6cef3
